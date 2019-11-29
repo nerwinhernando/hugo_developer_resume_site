@@ -13,7 +13,7 @@ publishDir = "nerwinhernando.github.io"
 
 [params]
     author = "CowboySmall"
-    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+    description = "DeveloperResume - Bootstrap 4 Resume/CV Template For Software Developers"
 
 
     primaryColor = "#54B689"
@@ -24,7 +24,7 @@ publishDir = "nerwinhernando.github.io"
 
     [params.profile]
         enable = true
-        name = "Simon Doe"
+        name = "Nerwin Hernando"
         tagline = "Senior Software Engineer"
         avatar = "avatar.png"
 
@@ -36,16 +36,16 @@ publishDir = "nerwinhernando.github.io"
 
     [params.contact]
         enable = true
-        location = "New York"
+        location = "Manila"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
         url = "tel:#"
-        text = "0123 4567 890"
+        text = "+63 917 593 2711"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:#"
-        text = "simon.doe@yourwebsite.com"
+        text = "nerwinc.hernando@gmail.com"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "#"
@@ -99,14 +99,9 @@ publishDir = "nerwinhernando.github.io"
         enable = true
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
-        university = "University College London"
-        dates = "2010 - 2011"
-        [[params.education.list]]
-        degree = "BSc Maths and Physics"
-        university = "Imperial College London"
-        dates = "2007 - 2010"
-
+        degree = "BS in Computer Science"
+        university = "Adamson University"
+        dates = "2001 - 2005"
 
 
 
@@ -140,8 +135,11 @@ publishDir = "nerwinhernando.github.io"
         name = "English"
         level = "Native"
         [[params.languages.list]]
-        name = "Spanish"
-        level = "Professional"
+        name = "Filipino"
+        level = "Native"
+        [[params.languages.list]]
+        name = "Japanese"
+        level = "Basic"
 
 
 
@@ -156,11 +154,11 @@ publishDir = "nerwinhernando.github.io"
         [[params.interests.list]]
         name = "Climbing"
         [[params.interests.list]]
-        name = "Snowboarding"
+        name = "Guitar"
         [[params.interests.list]]
-        name = "Photography"
+        name = "Badminton"
         [[params.interests.list]]
-        name = "Travelling"
+        name = "Reading"
 
 
 
@@ -185,8 +183,8 @@ publishDir = "nerwinhernando.github.io"
 
         [[params.experience.list]]
         title = "Senior Software Engineer"
-        dates = "2019 - Present"
-        company = "Google"
+        dates = "2017 - 2019"
+        company = "Assembly Payments"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis."
         [[params.experience.list.items]]
         details = "Lorem ipsum dolor sit amet, consectetuer."
@@ -196,9 +194,9 @@ publishDir = "nerwinhernando.github.io"
         details = "Etiam ultricies nisi vel augue."
 
         [[params.experience.list]]
-        title = "Lead Software Developer"
-        dates = "2016 - 2019"
-        company = "Apple"
+        title = "R&D Engineer"
+        dates = "2013 - 2017"
+        company = "Nokia Networks"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
         [[params.experience.list.items]]
         details = "Lorem ipsum dolor sit amet, consectetuer."
@@ -206,27 +204,27 @@ publishDir = "nerwinhernando.github.io"
         details = "Aenean commodo ligula eget dolor."
 
         [[params.experience.list]]
-        title = "Senior Software Developer"
-        dates = "2014 - 2016"
-        company = "Dropbox"
+        title = "Senior Software Engineer"
+        dates = "2010 - 2013"
+        company = "Accenture, Inc"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
 
         [[params.experience.list]]
-        title = "Senior Developer"
+        title = "Software Engineer II"
         dates = "2013 - 2014"
-        company = "Uber"
+        company = "Redmap Networks Asia, Inc"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
 
         [[params.experience.list]]
-        title = "Backend Developer"
+        title = "Senior Software Development Engineer"
         dates = "2014 - 2016"
-        company = "Amazon"
+        company = "Alson/AWS ISI"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
 
         [[params.experience.list]]
-        title = "Frontend Developer"
+        title = "Design Engineer"
         dates = "2013 - 2014"
-        company = "Startup"
+        company = "Tsukiden Software Philippines, Inc"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
 
 
