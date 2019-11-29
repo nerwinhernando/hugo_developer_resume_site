@@ -72,7 +72,9 @@ publishDir = "nerwinhernando.github.io"
         [[params.skills.list.items]]
         details = "JavaScript/React"
         [[params.skills.list.items]]
-        details = "Python/Ruby"
+        details = "Python/Django Rest Framework"
+        [[params.skills.list.items]]
+        details = "Ruby/Ruby on Rails Framework"
         [[params.skills.list.items]]
         details = "Node.js/ASP.NET"
         [[params.skills.list.items]]
@@ -217,7 +219,7 @@ publishDir = "nerwinhernando.github.io"
         [[params.experience.list.items]]
         details = "Performed creation of technical design documents, detailed design documents, development, unit testing, integration testing and code reviews."
         [[params.experience.list.items]]
-        details = "Designer for building batch applications written in Visual Basic 6 to process customer data that are scheduled configurately"
+        details = "Designer for building batch applications written in Visual Basic 6 to process customer data that are batched"
         [[params.experience.list]]
         title = "Software Engineer II"
         dates = "2013 - 2014"
